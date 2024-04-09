@@ -127,7 +127,7 @@ console.log(`Trikampio plotas ${t.getArea()}.`)
 
 console.log(`\n`);
 console.log(`----Patikriname, kuris trikampis didesnis .largerTriangle() metodu----`);
-console.log(`${trikampis.largerTriangle(t) ? 'Pirmas' : 'Antras'} trikampis didesnis, nes funkcija grąžina '${trikampis.largerTriangle(t)}'.`)
+console.log(`${trikampis.largerTriangle(t) ? 'Pirmas' : 'Antras'} trikampis didesnis, nes metodas grąžina '${trikampis.largerTriangle(t)}'.`)
 
 
 
